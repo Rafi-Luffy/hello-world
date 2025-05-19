@@ -1,2 +1,2 @@
 # hello-world
-Practicing GitHub basics
+This is my first time GitHub commit!
